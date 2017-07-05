@@ -80,7 +80,7 @@ function spotifyThisSong() {
 	
  	//console.log("Value is: " + value);
 	spotify.search({ type: 'track', query: value, limit: 1 }, function(err, data) {
-		//console.log(data);
+		console.log("Song data" + data);
     		if ( err ) {
         		console.log('Error occurred: ' + err);
       			  return;
@@ -88,7 +88,7 @@ function spotifyThisSong() {
 
     		var artist = data.tracks.items[0].artists[0].name;
     		var name = data.tracks.items[0].name;
-    		var songLink = data.tracks.items[0].uri;
+    		var songLink = data.tracks.items[0].external_urls.spotify;
     		var album = data.tracks.items[0].album.name;
  
     // Do something with 'data' 
@@ -193,7 +193,6 @@ function doWhatItSays() {
 			return console.log(err);
 		}
 	data = data.split(",");
-	//var value = data[1];
 	console.log("We will spotify-this-song with: " + data[1]);
 	
 
