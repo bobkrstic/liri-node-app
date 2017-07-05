@@ -62,11 +62,15 @@ function myTweets() {
 			console.log(tweets[i].created_at);
 			console.log("--------------------------------------");
 
-			fs.appendFile("log.txt", "\r\n" + tweets[i].text + "\r\n" + tweets[i].created_at + "\r\n", function(err) {
-				if (err) {
-					console.log("Can't add tweets to the file log.txt: " + err);
-					return;
-				}
+			fs.appendFile("log.txt", "\r\n" + 
+				           tweets[i].text + "\r\n" + 
+				           tweets[i].created_at + "\r\n" + "-------------------------------------", 
+
+							function(err) {
+								if (err) {
+									console.log("Can't add tweets to the file log.txt: " + err);
+									return;
+								}
 			})
 
 			console.log("Tweet added to the log.txt file.");
@@ -78,9 +82,7 @@ function myTweets() {
 // 78901234 slkrsticspot
 function spotifyThisSong() {
 	
- 	//console.log("Value is: " + value);
 	spotify.search({ type: 'track', query: value, limit: 1 }, function(err, data) {
-		console.log("Song data" + data);
     		if ( err ) {
         		console.log('Error occurred: ' + err);
       			  return;
@@ -156,7 +158,7 @@ function movieThis() {
   	 	console.log("Actors: " + movieObject.Actors);
 
 
-  	 	fs.appendFile("log.txt", "\r\n" + process.argv[2] + "\r\n" + "\r\n" +
+  	 	fs.appendFile("log.txt", "\r\n" + process.argv[2] + "\r\n" + "----------------------------------------" + "\r\n" +
   	 					"Movie Title: " + movieObject.Title + "\r\n" +
   	 					"Release Year: " + movieObject.Year + "\r\n" +
   	 					"IMDB Ratings: " + movieObject.imdbRating + "\r\n" +
