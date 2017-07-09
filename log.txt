@@ -1,6 +1,18 @@
 
 my-tweets
 
+@SenSanders Keep on barking old dog. In a, hopefully, near future politicians will be obsolete. Science will lead t… https://t.co/bkJdmtqbqQ
+Sat Jul 08 16:21:05 +0000 2017
+-------------------------------------
+Lord Elonsus has spoken again. Does he poop? Or he is as divine as NK's Un? I care. Do you? https://t.co/KM8oRaKl7d
+Thu Jul 06 20:29:17 +0000 2017
+-------------------------------------
+@PrisonPlanet @CNN doesn't care. Lies sell better than truth. It's about money. This is just another bait, to get m… https://t.co/GhLMIqNrjo
+Thu Jul 06 15:43:58 +0000 2017
+-------------------------------------
+RT @NextNewsNet: BREAKING: FEMALE COP ASSASSINATED IN PATROL CAR, THEN 1 HORRIFYING DETAIL EMERGES https://t.co/YYQVhFdLDB
+Thu Jul 06 15:34:03 +0000 2017
+-------------------------------------
 Happy 4th America. Great country, great people.
 Tue Jul 04 21:28:37 +0000 2017
 -------------------------------------
@@ -48,30 +60,7 @@ Fri Jun 02 17:30:36 +0000 2017
 -------------------------------------
 RT @StefanMolyneux: Great to see Kathy Griffin inspire a new generation of strong women by showing how to cry on cue when asked a mildly di…
 Fri Jun 02 17:20:44 +0000 2017
--------------------------------------
-@PrisonPlanet Fake tears. You need a mental help @kathygriffin. Some meds would do you good. It's time.
-Fri Jun 02 17:18:05 +0000 2017
--------------------------------------
-PLEASE DON'T FOLLOW ME! I carry no interest in becoming "somebody"!
-Fri Jun 02 16:17:37 +0000 2017
--------------------------------------
-@Rambobiggs Lol, how do you know which gender out of 1000 they chose to be?
-Fri Jun 02 16:14:06 +0000 2017
--------------------------------------
-@LisaBloom Desperate attempts to cover for the last and lost chance to be a normal human. Pathetic.
-Fri Jun 02 15:49:55 +0000 2017
--------------------------------------
-movie-this
-----------------------------------------
-Movie Title: Life Is Beautiful
-Release Year: 1997
-IMDB Ratings: 8.6
-Roten Tomatoes Rating: 80%
-Country: undefined
-Language: Italian, German, English
-Plot: When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.
-Actors: Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini, Giustino Durano
- 
+------------------------------------- 
 do-what-it-says
 The Song's Name: Let It Be - Remastered
 Artist: The Beatles
@@ -79,7 +68,41 @@ Song Link: https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48
 Album: Let It Be (Remastered)
 
 spotify-this-song
+The Song's Name: Sign of the Times
+Artist: Harry Styles
+Song Link: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Album: Sign of the Times
+
+spotify-this-song
 The Song's Name: You Know I'm No Good
 Artist: Amy Winehouse
 Song Link: https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2
 Album: Back To Black
+
+spotify-this-song
+The Song's Name: Let It Be - Remastered
+Artist: The Beatles
+Song Link: https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48
+Album: Let It Be (Remastered)
+
+movie-this
+----------------------------------------
+Movie Title: Mr. Nobody
+Release Year: 2009
+IMDB Ratings: 7.9
+Roten Tomatoes Rating: 64%
+Country: undefined
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+movie-this
+----------------------------------------
+Movie Title: Beverly Hills Cop
+Release Year: 1984
+IMDB Ratings: 7.3
+Roten Tomatoes Rating: 84%
+Country: undefined
+Language: English
+Plot: A freewheeling Detroit cop pursuing a murder investigation finds himself dealing with the very different culture of Beverly Hills.
+Actors: Eddie Murphy, Judge Reinhold, John Ashton, Lisa Eilbacher
